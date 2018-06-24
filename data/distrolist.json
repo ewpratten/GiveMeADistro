@@ -1,0 +1,109 @@
+{
+  "distros" : [
+    {
+      "name" : "Arch Linux",
+      "link" : "https://www.archlinux.org/download/",
+      "desc" : "Arch is a very powerful and customizable distro mainly used by linux enthusiasts or on servers."
+    },
+    {
+      "name" : "Antergos",
+      "link" : "https://antergos.com/try-it/",
+      "desc" : "Antergos is a varient of Arch Linux that is designed to be easy to set up and use."
+    },
+    {
+      "name" : "Manjaro",
+      "link" : "https://manjaro.org/get-manjaro/",
+      "desc" : "Manjaro is a user-friendly Linux distribution based on Arch Linux."
+    },
+    {
+      "name" : "Ubuntu",
+      "link" : "https://www.ubuntu.com/download/desktop",
+      "desc" : "Ubuntu is a very popular and easy to use distro with many 'flavours' available for easy customization. It's great for beginners."
+    },
+    {
+      "name" : "KDE Neon",
+      "link" : "https://neon.kde.org/download",
+      "desc" : "Neon is an easy to use distro based around the KDE Plasma desktop and other KDE tools."
+    },
+    {
+      "name" : "Debian",
+      "link" : "https://www.debian.org/CD/",
+      "desc" : "Debian is great for almost anything and can be customized in many ways. It can also run on chromebooks."
+    },
+    {
+      "name" : "Ubuntu Budgie",
+      "link" : "https://ubuntubudgie.org/downloads",
+      "desc" : "Ubuntu Budgie is a flavour of Ubuntu with the Budgie desktop and tools pre-installed."
+    },
+    {
+      "name" : "Kubuntu",
+      "link" : "https://kubuntu.org/getkubuntu",
+      "desc" : "Kubuntu is a flavour of Ubuntu with the KDE plasma desktop pre-installed."
+    },
+    {
+      "name" : "Solus",
+      "link" : "https://solus-project.com/download",
+      "desc" : "Solus is an operating system that is designed for home computing."
+    },
+    {
+      "name" : "Zorin OS",
+      "link" : "https://zorinos.com/download/",
+      "desc" : "Zorin OS is an alternative to Windows and macOS, designed to make your computer faster, more powerful and more secure."
+    },
+    {
+      "name" : "Raspbian",
+      "link" : "https://www.raspberrypi.org/downloads/raspberry-pi-desktop/",
+      "desc" : "Raspberry Pi Desktop comes pre-installed with plenty of software for education, programming and general use, including Python, Scratch, Sonic Pi, Java, and more."
+    },
+    {
+      "name" : "OpenSUSE",
+      "link" : "https://www.opensuse.org/#Tumbleweed",
+      "desc" : "\"The makers' choice for sysadmins, developers and desktop users.\""
+    },
+    {
+      "name" : "Fedora",
+      "link" : "https://getfedora.org/en/workstation/download",
+      "desc" : "Fedora is a polished, easy to use operating system for both laptop and desktop computers."
+    },
+    {
+      "name" : "Linux Lite",
+      "link" : "https://www.linuxliteos.com/download.php",
+      "desc" : "Linux Lite is a very easy to use distro based upon the latest LTS release of Ubuntu."
+    },
+    {
+      "name" : "Linux Mint",
+      "link" : "https://linuxmint.com/download.php",
+      "desc" : "Linux Mint is fresh, clean and has a user friendly environment to get you started fast and simple."
+    },
+    {
+      "name" : "elementary OS",
+      "link" : "https://elementary.io/",
+      "desc" : "elementary OS is a fast and open replacement for Windows and macOS. Designers love this."
+    },
+    {
+      "name" : "deepin",
+      "link" : "https://www.deepin.org/en/download/",
+      "desc" : "deepin is a Linux distribution devoted to providing beautiful, easy to use, safe and reliable system for global users."
+    },
+    {
+      "name" : "Lubuntu",
+      "link" : "https://lubuntu.net/downloads/",
+      "desc" : "Lubuntu is a fast and lightweight operating system with a clean and easy-to-use user interface."
+    },
+    {
+      "name" : "Xubuntu",
+      "link" : "https://xubuntu.org/download",
+      "desc" : "Xubuntu is an elegant and easy to use operating system. Xubuntu comes with Xfce, which is a stable, light and configurable desktop environment."
+    },
+    {
+      "name" : "Peppermint OS",
+      "link" : "https://peppermintos.com/guide/downloading/",
+      "desc" : "A lightning fast, lightweight Linux based Os. Secure, stable and fully customizable."
+    },
+    {
+      "name" : "Red Hat",
+      "link" : "https://developers.redhat.com/products/rhel/download/",
+      "desc" : "Red Hat Enterprise Linux (RHEL) is a Linux distribution developed by Red Hat and targeted toward the commercial market."
+    }
+  ]
+}

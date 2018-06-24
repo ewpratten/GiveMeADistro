@@ -9,10 +9,16 @@ body{
 	margin:0;
 	padding:0;
 }
+
 a{
 	text-decoration: none;
-	color:##5e81ac;
+	color:#5e81ac;
 }
+
+#title {
+	color: #2e3440;
+}
+
 .main{
 	width:60%;
 	max-width:800px;
@@ -20,6 +26,7 @@ a{
 	margin-left: auto;
 	margin-right: auto;
 }
+
 
 .parent {
 	display: table;
